@@ -1,0 +1,26 @@
+{
+  "name": "smarthomehubsmarthomehub-tea",
+  "version": "1.0.0",
+  "description": "Welcome to EcoGarden! EcoGarden is a sustainable gardening platform designed to help you cultivate and maintain your own eco-friendly garden space. Whether you're an experienced gardener or a beginner looking to develop your green thumb, EcoGarden provides the tools, resources, and community support you need to grow healthy, organic produce and create a thriving garden ecosystem. Say goodbye to chemical pesticides and synthetic fertilizers, and hello to sustainable gardening with EcoGarden!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/beyeead/SmartHomeHub.git"
+  },
+  "keywords": [
+  "sample",
+  "npm",
+  "package"
+  ],
+  "author": "beyeead",
+  "license": "MIT",
+  "dependencies": {
+  "lodash": "^4.17.21",
+  "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+  "react": ">=16.8.0",
+  "react-dom": ">=16.8.0"
+  }
+  }
